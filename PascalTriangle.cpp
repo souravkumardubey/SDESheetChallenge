@@ -19,4 +19,4 @@ vector<vector<long long int>> printPascal(int n)
 
     return vec;
     
-}
+} 
