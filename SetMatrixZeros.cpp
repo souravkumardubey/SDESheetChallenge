@@ -14,7 +14,7 @@ void setZeros(vector<vector<int>> &matrix)
                 
                 row[i] = 1;
                 col[j] = 1;
-                
+                 
             }
             
         }
